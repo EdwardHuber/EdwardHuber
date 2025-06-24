@@ -6,48 +6,53 @@ Welcome to my Cybersecurity Portfolio. This space showcases my hands-on projects
 
 ## 🔍 About Me
 
-I'm a cybersecurity enthusiast with a mix of formal education and self-directed learning. My portfolio highlights real-world style tools, ethical red team simulations, and Python-based security projects.
+I'm a cybersecurity enthusiast passionate about network security, ethical hacking, and automation. My portfolio includes real-world style tools, ethical red team demos, and security-oriented Python projects.
 
-- 🧑‍💻 Studying Information Technology with a focus on cybersecurity  
-- 🧠 Continuously learning via CTFs, HackTheBox, and hands-on experimentation  
-- 🔐 Focused on reconnaissance, malware analysis, security automation, and penetration testing
+- 🧑‍💻 Strong Python skills with formal and self-guided learning  
+- 🧠 Always learning: CTFs, HackTheBox, and real-world research  
+- 🔐 Focus: Reconnaissance, malware analysis, automation, and pentesting
 
 ---
 
 ## 🧰 Featured Projects
 
-### 📡 Network Packet Sniffer  
-**Description:** Captures and logs live packets using custom filters.  
+### 📡 1. Network Packet Sniffer  
+**Description:** Captures and logs live packets with filters.  
 **Tech:** Python, Scapy  
-**Run:** `python packet_sniffer.py`  
+**Skills Learned:** Network packet capture, raw sockets, protocol analysis, Scapy usage  
+**Demo:** `python packet_sniffer.py`  
 [🔗 View Project](https://github.com/EdwardHuber/packet-sniffer)
 
 ---
 
-### 🎯 Wi-Fi Password Grabber (Educational Use Only)  
-**Description:** Demonstrates extraction of saved Wi-Fi credentials (Windows).  
-**Tech:** Python, Subprocess (cmd)  
-[🔗 View Project](https://github.com/EdwardHuber/wifi-grabber)
+### 🎯 2. Wi-Fi Password Grabber (Educational)  
+**Description:** Demonstrates retrieval of stored Wi-Fi credentials.  
+**Tech:** Python, Windows cmd integration  
+**Skills Learned:** Windows subprocess calls, credential extraction awareness, system security concepts  
+[🔗 View Project](https://github.com/EdwardHuber/wifi-password-grabber)
 
 ---
 
-### 🧠 Keylogger with Heatmap Analysis  
-**Description:** Logs keystrokes and visualizes them as a heatmap.  
+### 🧠 3. Keylogger with Heatmap Analysis  
+**Description:** Logs keystrokes and visualizes key frequency.  
 **Tech:** Python, Tkinter, Matplotlib  
+**Skills Learned:** Keyboard input capture, data visualization, file handling, ethical keylogging  
 [🔗 View Project](https://github.com/EdwardHuber/keylogger-heatmap)
 
 ---
 
-### 📁 File Integrity Monitor  
-**Description:** Watches for file changes and alerts on modifications.  
+### 📁 4. File Integrity Monitor  
+**Description:** Detects file changes and alerts on tampering.  
 **Tech:** Python, Watchdog  
+**Skills Learned:** File hashing, change detection, system monitoring concepts  
 [🔗 View Project](https://github.com/EdwardHuber/file-integrity-monitor)
 
 ---
 
-### 🌐 Port Scanner with GUI  
-**Description:** Scans targeted IPs or ranges through a user-friendly interface.  
+### 🌐 5. Port Scanner with GUI  
+**Description:** Scan IP ranges or targets via GUI.  
 **Tech:** Python, Tkinter, Sockets  
+**Skills Learned:** Network socket programming, port scanning, GUI development with Tkinter  
 [🔗 View Project](https://github.com/EdwardHuber/port-scanner-gui)
 
 ---
@@ -55,9 +60,16 @@ I'm a cybersecurity enthusiast with a mix of formal education and self-directed 
 ## 📦 Other Projects
 
 - ✅ [System Info Stealer (Ethical Demo)](https://github.com/EdwardHuber/system-info-demo)  
+  **Skills Learned:** OS info gathering, network reconnaissance, Python standard libraries
+
 - ✅ [Steganography Tool (Hide/Extract Files)](https://github.com/EdwardHuber/steganography-tool)  
-- ✅ [Basic Ransomware Simulator (No Damage)](https://github.com/EdwardHuber/ransomware-sim)  
-- ✅ [Log Analyzer for Threat Patterns](https://github.com/EdwardHuber/log-analyzer)
+  **Skills Learned:** Data hiding, image processing, LSB steganography, Python third-party libraries
+
+- ✅ [Basic Ransomware Simulator (No Damage)](https://github.com/EdwardHuber/ransomware-simulator)  
+  **Skills Learned:** Symmetric encryption, cryptography library, file encryption/decryption, key management
+
+- ✅ [Log Analyzer for Threat Patterns](https://github.com/EdwardHuber/log-analyzer)  
+  **Skills Learned:** Log parsing, regular expressions, threat detection basics, text processing
 
 ---
 
@@ -65,32 +77,26 @@ I'm a cybersecurity enthusiast with a mix of formal education and self-directed 
 
 - **Languages:** Python, Bash, HTML  
 - **Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Scapy  
-- **Concepts:** Network security, OSINT, phishing simulation, malware analysis, red teaming
+- **Concepts:** Network security, OSINT, phishing simulation, basic malware analysis
 
 ---
 
-## 📜 Certifications & Education
+## 🎓 Certifications & Education
 
-### 🎓 Education
-- 🧑‍🎓 **A.S. in Information Technology** *(In Progress)*  
-  Minnesota State Community and Technical College
-
-### 🏅 Certifications
-- ✅ **Google Cybersecurity Career Certificate** *(In Progress — Coursera)*  
-- ✅ **Cybersecurity Certificate** *(In Progress)*  
-  Minnesota State Community and Technical College
+- Google Cybersecurity Career Certificate (In Progress)  
+- Cybersecurity Certificate, Minnesota State Community & Technical College (In Progress)  
+- AS Degree in Information Technology, Minnesota State Community & Technical College (In Progress)
 
 ---
 
 ## 📫 Contact Me
 
-- 🧰 GitHub: [github.com/EdwardHuber](https://github.com/EdwardHuber)  
-- ✉️ Email: [edwardhuber1234@gmail.com](mailto:edwardhuber1234@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/edward-huber-036722247](https://www.linkedin.com/in/edward-huber-036722247)
+- GitHub: [github.com/EdwardHuber](https://github.com/EdwardHuber)  
+- Email: edwardhuber1234@gmail.com  
+- LinkedIn: [linkedin.com/in/EdwardHuber](https://www.linkedin.com/in/edward-huber-036722247)
 
 ---
 
-> ⚠️ All tools are built **for educational purposes only**. Please test ethically and legally in controlled environments.
-
+> ⚠️ All tools are built **for educational purposes only**. Always test ethically and legally.
 
 
