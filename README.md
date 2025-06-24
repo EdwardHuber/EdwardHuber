@@ -56,7 +56,13 @@ I'm a cybersecurity enthusiast passionate about network security, ethical hackin
 [🔗 View Project](https://github.com/EdwardHuber/port-scanner-gui)
 
 ---
+### 📍 6. IP Tracker  
+**Description:** Tracks geolocation, ISP, timezone, and more from any IP using a public API.  
+**Tech:** Python, requests, ipinfo.io or ip-api.com  
+**Skills Learned:** API integration, working with JSON, IP geolocation, terminal-based input/output  
+[🔗 View Project](https://github.com/EdwardHuber/ip-tracker)
 
+---
 ## 📦 Other Projects
 
 - ✅ [System Info Stealer (Ethical Demo)](https://github.com/EdwardHuber/system-info-demo)  
