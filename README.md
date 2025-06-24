@@ -63,6 +63,13 @@ I'm a cybersecurity enthusiast passionate about network security, ethical hackin
 [🔗 View Project](https://github.com/EdwardHuber/ip-tracker)
 
 ---
+### 🧰 7. Offensive Python Toolkit  
+**Description:** CLI-based modular toolkit featuring port scanning, hash cracking, brute-force simulation, subdomain enumeration, and more.  
+**Tech:** Python, socket, subprocess, hashlib  
+**Skills Learned:** Ethical red teaming, modular scripting, CLI design, automation, tool building  
+[🔗 View Project](https://github.com/EdwardHuber/offensive-python-toolkit)
+
+---
 ## 📦 Other Projects
 
 - ✅ [System Info Stealer (Ethical Demo)](https://github.com/EdwardHuber/system-info-demo)  
