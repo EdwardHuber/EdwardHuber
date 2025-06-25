@@ -10,7 +10,7 @@ I'm an Information Technology student with a focus in cybersecurity, passionate 
 
 
 - 🧑‍💻 Strong Python skills with formal and self-guided learning  
-- 🧠 Always learning: CTFs, HackTheBox, and real-world research  
+- 🧠 Always learning: HackTheBox, and real-world research  
 - 🔐 Focus: Reconnaissance, malware analysis, automation, and pentesting
 
 ---
