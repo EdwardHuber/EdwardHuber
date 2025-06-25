@@ -6,7 +6,8 @@ Welcome to my Cybersecurity Portfolio. This space showcases my hands-on projects
 
 ## 🔍 About Me
 
-I'm a cybersecurity enthusiast passionate about network security, ethical hacking, and automation. My portfolio includes real-world style tools, ethical red team demos, and security-oriented Python projects.
+I'm an Information Technology student with a focus in cybersecurity, passionate about network security, ethical hacking, and automation. My portfolio includes real-world style tools, ethical red team demos, and security-oriented Python projects.
+
 
 - 🧑‍💻 Strong Python skills with formal and self-guided learning  
 - 🧠 Always learning: CTFs, HackTheBox, and real-world research  
@@ -56,6 +57,7 @@ I'm a cybersecurity enthusiast passionate about network security, ethical hackin
 [🔗 View Project](https://github.com/EdwardHuber/port-scanner-gui)
 
 ---
+
 ### 📍 6. IP Tracker  
 **Description:** Tracks geolocation, ISP, timezone, and more from any IP using a public API.  
 **Tech:** Python, requests, ipinfo.io or ip-api.com  
@@ -63,6 +65,7 @@ I'm a cybersecurity enthusiast passionate about network security, ethical hackin
 [🔗 View Project](https://github.com/EdwardHuber/ip-tracker)
 
 ---
+
 ### 🧰 7. Offensive Python Toolkit  
 **Description:** CLI-based modular toolkit featuring port scanning, hash cracking, brute-force simulation, subdomain enumeration, and more.  
 **Tech:** Python, socket, subprocess, hashlib  
@@ -70,27 +73,76 @@ I'm a cybersecurity enthusiast passionate about network security, ethical hackin
 [🔗 View Project](https://github.com/EdwardHuber/offensive-python-toolkit)
 
 ---
-## 📦 Other Projects
 
-- ✅ [System Info Stealer (Ethical Demo)](https://github.com/EdwardHuber/system-info-demo)  
-  **Skills Learned:** OS info gathering, network reconnaissance, Python standard libraries
+### 🦠 8. Fake Malware Sandbox Logger  
+**Description:** Simulates malware-like actions such as file writes, network connections, and registry changes to help test sandbox detections safely.  
+**Tech:** Python, socket, winreg (Windows)  
+**Skills Learned:** Simulating malware behavior, socket programming, Windows registry manipulation, logging  
+[🔗 View Project](https://github.com/EdwardHuber/fake-malware-sandbox-logger)
 
-- ✅ [Steganography Tool (Hide/Extract Files)](https://github.com/EdwardHuber/steganography-tool)  
-  **Skills Learned:** Data hiding, image processing, LSB steganography, Python third-party libraries
+---
 
-- ✅ [Basic Ransomware Simulator (No Damage)](https://github.com/EdwardHuber/ransomware-simulator)  
-  **Skills Learned:** Symmetric encryption, cryptography library, file encryption/decryption, key management
+### 🎭 9. Phishing Template Generator (HTML only)  
+**Description:** Generates customizable, static phishing page templates for security awareness training.  
+**Tech:** Python, HTML, CSS  
+**Skills Learned:** HTML/CSS templating, user input handling, security awareness design  
+[🔗 View Project](https://github.com/EdwardHuber/phishing-template-generator)
 
-- ✅ [Log Analyzer for Threat Patterns](https://github.com/EdwardHuber/log-analyzer)  
-  **Skills Learned:** Log parsing, regular expressions, threat detection basics, text processing
+---
+
+### 🔒 10. Basic Ransomware Simulator (No Damage)  
+**Description:** Safely simulates ransomware behavior by renaming files with `.locked` extension without encrypting contents.  
+**Tech:** Python, OS module  
+**Skills Learned:** File renaming, directory traversal, safe ransomware simulation, logging  
+[🔗 View Project](https://github.com/EdwardHuber/ransomware-simulator)
+
+---
+
+### 💾 11. Macro Payload Generator (Safe)  
+**Description:** Generates harmless VBA macro payloads for red team training and awareness.  
+**Tech:** Python  
+**Skills Learned:** VBA scripting basics, payload simulation, file creation  
+[🔗 View Project](https://github.com/EdwardHuber/macro-payload-generator)
+
+---
+
+### 📁 12. USB Drop Simulation Tool  
+**Description:** Detects USB device insertions/removals and logs device details for forensic simulations.  
+**Tech:** Python, pyudev (Linux), pywin32 (Windows)  
+**Skills Learned:** USB event monitoring, cross-platform hardware interfacing, real-time logging  
+[🔗 View Project](https://github.com/EdwardHuber/usb-drop-simulator)
+
+---
+
+### 🧪 13. YARA Rule Tester GUI  
+**Description:** Loads files and applies YARA rules via a GUI to detect malware signatures.  
+**Tech:** Python, Tkinter, yara-python  
+**Skills Learned:** GUI app development, YARA rules, malware detection basics  
+[🔗 View Project](https://github.com/EdwardHuber/yara-rule-tester-gui)
+
+---
+
+### 🔍 14. Process Anomaly Detector  
+**Description:** Detects suspicious process behaviors and parent-child relationships to flag malware tactics.  
+**Tech:** Python, psutil  
+**Skills Learned:** Process enumeration, regex pattern matching, behavioral detection  
+[🔗 View Project](https://github.com/EdwardHuber/process-anomaly-detector)
+
+---
+
+### 📜 15. System Info Stealer (Ethical Demo)  
+**Description:** Collects system and network info for ethical demo purposes.  
+**Tech:** Python  
+**Skills Learned:** OS and network info gathering, Python standard libraries  
+[🔗 View Project](https://github.com/EdwardHuber/system-info-demo)
 
 ---
 
 ## 🧪 Skills
 
 - **Languages:** Python, Bash, HTML  
-- **Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Scapy  
-- **Concepts:** Network security, OSINT, phishing simulation, basic malware analysis
+- **Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Scapy, yara-python  
+- **Concepts:** Network security, OSINT, phishing simulation, malware analysis, process monitoring, USB forensics
 
 ---
 
