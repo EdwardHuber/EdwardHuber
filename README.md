@@ -12,7 +12,7 @@ I'm an Information Technology student with a focus in cybersecurity, passionate 
 - 🧑‍💻 Strong Python skills with formal and self-guided learning  
 - 🧠 Always learning: HackTheBox, and real-world research  
 - 🔐 Focus: Reconnaissance, malware analysis, automation, and pentesting
-
+- 📋 Completed a security audit of a simulated company as part of the Google Cybersecurity Certificate
 ---
 
 ## 🧰 Featured Projects
@@ -135,6 +135,19 @@ I'm an Information Technology student with a focus in cybersecurity, passionate 
 **Tech:** Python  
 **Skills Learned:** OS and network info gathering, Python standard libraries  
 [🔗 View Project](https://github.com/EdwardHuber/system-info-demo)
+
+---
+### 🛡️ 16. Security Audit (Simulated Company)  
+**Description:** Performed a structured security audit of a simulated organization as part of the Google Cybersecurity Certificate coursework.  
+**Tech:** Google Cybersecurity Certificate Framework  
+**Skills Learned:**  
+- Conducting a risk assessment  
+- Reviewing system and network security controls  
+- Identifying vulnerabilities and misconfigurations  
+- Documenting findings in a professional audit report  
+- Recommending security improvements aligned with best practices
+
+[📄 View Project Repository](https://github.com/EdwardHuber/security-audit-simulated-company)
 
 ---
 
