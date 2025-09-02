@@ -1,6 +1,3 @@
-
-
-
 # 🛡️ Edward Huber — Cybersecurity & DFIR Portfolio
 Welcome to my Cybersecurity Portfolio. This space showcases my hands-on projects, tools, and experiments focused on **digital forensics (DFIR)**, **malware analysis**, and **security awareness training**.  
 Whether you're a recruiter, fellow analyst, or just curious — feel free to explore!
@@ -17,7 +14,7 @@ They are intentionally limited, safe to run in lab environments, and **must not*
 ---
 
 ## 🔍 About Me
-I’m an **IT major with a Cybersecurity minor** at North Dakota State University, building tools that match **FBI Cyber Division workflows**:
+I’m an **IT major with a Cybersecurity minor** at North Dakota State University, building tools that match **FBI Cyber Division** workflows:
 
 - 🧑‍💻 Python for forensic automation  
 - 🧠 DFIR and malware simulation for training  
@@ -31,6 +28,18 @@ I’m an **IT major with a Cybersecurity minor** at North Dakota State Universit
 🛡️ **[DFIR Hive Toolkit](https://github.com/EdwardHuber/dfir-hive-toolkit)**  
 Offline collection, decoding, and training workflows using Windows registry hives.  
 *Tech:* Python, Impacket, Hashcat • *Skills:* Evidence handling, hive analysis, forensic automation  
+
+🧩 **[Process Triage Dashboard](https://github.com/EdwardHuber/process-triage-dashboard)**  
+Quick DFIR process triage with CSV/JSON + HTML report (psutil). Highlights parent→shell, temp-exe, and networked temp binaries.  
+*Tech:* Python, psutil • *Skills:* Process triage, anomaly heuristics, reporting  
+
+🧠 **[Memory Forensics Mini-Toolkit](https://github.com/EdwardHuber/memory-forensics-mini-toolkit)**  
+Volatility 3 wrapper that runs common plugins and organizes outputs into a DFIR case folder.  
+*Tech:* Python, Volatility 3 • *Skills:* Memory triage, malware hunting, DFIR case structure  
+
+📦 **[Chain of Custody Tracker](https://github.com/EdwardHuber/chain-of-custody-tracker)**  
+Tamper-evident chain-of-custody logger (hash-chained JSONL) with MD/CSV exports and verification.  
+*Tech:* Python (stdlib) • *Skills:* Evidence integrity, custody logging, reporting  
 
 📡 **[Network Packet Sniffer](https://github.com/EdwardHuber/packet-sniffer)**  
 Captures and logs live packets with filters.  
@@ -115,17 +124,18 @@ Mock security audit as part of Google Cybersecurity Certificate.
 ---
 
 ## 🎓 Education & Certifications
-- **B.S. Information Technology (Cybersecurity minor)** — North Dakota State University *(In Progress)*  
-- **Google Cybersecurity Certificate**  
+- B.S. Information Technology (Cybersecurity minor) — North Dakota State University (In Progress)  
+- Google Cybersecurity Certificate  
 
 ---
 
 ## 📫 Contact
-- GitHub: [EdwardHuber](https://github.com/EdwardHuber)  
+- GitHub: [EdwardHuber](https://github.com/EdwardHuber?tab=repositories)  
 - Email: **edwardhuber1234@gmail.com**  
 - LinkedIn: [linkedin.com/in/EdwardHuber](https://linkedin.com/in/EdwardHuber)  
 
 ---
 
-⚠️ **All projects are educational and for authorized use only.**  
+⚠️ All projects are educational and for authorized use only.  
 MIT License © 2025 Edward Huber
+
