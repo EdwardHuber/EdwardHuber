@@ -22,7 +22,8 @@ This is where I share the projects I’ve built while studying **cybersecurity a
 Captures and logs live packets with filters.  
 *Tech:* Python, Scapy  
 *Skills:* Network packet capture, raw sockets, protocol analysis  
-🔗 [View Project](https://github.com/EdwardHuber/Network-Packet-Sniffer)  
+🔗 [View Project](https://github.com/EdwardHuber/packet-sniffer)
+
 
 🎯 **2. Wi-Fi Password Grabber (Educational)**  
 Demonstrates retrieval of stored Wi-Fi credentials.  
