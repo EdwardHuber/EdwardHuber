@@ -100,12 +100,12 @@ Flags suspicious parent/child process relationships.
 *Tech:* Python, psutil  
 *Skills:* Process analysis, DFIR triage  
 
-📜 **[System Info Stealer (Demo)](https://github.com/EdwardHuber/system-info-stealer)**  
+📜 **[System Info Stealer (Demo)](https://github.com/EdwardHuber/system-info-demo)**  
 Collects system and network info (for demo/awareness only).  
 *Tech:* Python  
 *Skills:* OS & network info gathering, awareness training  
 
-🛡️ **[Security Audit (Simulated Company)](https://github.com/EdwardHuber/security-audit)**  
+🛡️ **[Security Audit (Simulated Company)](https://github.com/EdwardHuber/security-audit-simulated-company)**  
 Performed a mock audit of a simulated organization as part of the Google Cybersecurity Certificate.  
 *Skills:* Risk assessment, security controls, professional reporting  
 
