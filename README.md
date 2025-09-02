@@ -83,19 +83,19 @@ Simulates ransomware behavior by renaming files (no encryption).
 Generates harmless VBA payloads for red-team awareness training.  
 *Tech:* Python  
 *Skills:* VBA basics, payload simulation, file creation  
-🔗 [View Project](https://github.com/EdwardHuber/Macro-Payload-Generator)  
+🔗 [View Project](https://github.com/EdwardHuber/macro-payload-generator-safe)  
 
 📁 **12. USB Drop Simulation Tool**  
 Detects USB insertions/removals and logs device details.  
 *Tech:* Python, pyudev (Linux), pywin32 (Windows)  
 *Skills:* Hardware event monitoring, cross-platform forensics  
-🔗 [View Project](https://github.com/EdwardHuber/USB-Drop-Simulation)  
+🔗 [View Project](https://github.com/EdwardHuber/usb-drop-simulation-tool)  
 
 🧪 **13. YARA Rule Tester GUI**  
 Loads files and applies YARA rules via GUI.  
 *Tech:* Python, Tkinter, yara-python  
 *Skills:* GUI dev, malware detection, YARA rules  
-🔗 [View Project](https://github.com/EdwardHuber/YARA-Rule-Tester)  
+🔗 [View Project](https://github.com/EdwardHuber/yara-rule-tester-gui)  
 
 🔍 **14. Process Anomaly Detector**  
 Detects suspicious process behaviors.  
