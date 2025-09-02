@@ -1,146 +1,140 @@
+# 🛡️ Edward Huber — Cybersecurity & DFIR Portfolio
 
-# 🛡️ Edward Huber — Cybersecurity & Digital Forensics Portfolio  
-
-Welcome to my GitHub! 🎉  
-This is where I share the projects I’ve built while studying **cybersecurity and digital forensics**. My long-term goal is to serve in **FBI Cyber**, and I’m building a portfolio of projects that highlight skills in **evidence handling, forensics, malware analysis, and automation**.  
-
----
-
-## 🔍 About Me  
-
-- 🎓 IT major + Cybersecurity minor at North Dakota State University (both in progress)  
-- 🛡️ Focused on digital forensics, malware analysis, and network investigations  
-- 🧑‍💻 Strong Python background — I love building tools that make forensic work faster and more structured  
-- 🧠 Always learning through HackTheBox, coursework, and side projects  
-- 🚀 Big picture: use cybersecurity to **protect communities and uncover the truth in digital evidence**  
+Welcome to my Cybersecurity Portfolio. This space showcases my hands-on projects, tools, and experiments focused on **digital forensics (DFIR)**, **malware analysis**, and **security awareness training**.  
+Whether you're a recruiter, fellow analyst, or just curious — feel free to explore!
 
 ---
 
-## 🧰 Featured Projects  
+## ⚖️ License & Disclaimer
+All repositories in this portfolio are released under the **MIT License (2025, Edward Huber)**.  
+That means my code is free to use for educational and authorized purposes, with no warranty or liability.  
 
-📡 **1. Network Packet Sniffer**  
+⚠️ **Important:** Every project here is built for **training, DFIR, and awareness only**.  
+They are intentionally limited, safe to run in lab environments, and **must not** be misused.
+
+---
+
+## 🔍 About Me
+I’m an **Information Technology major with a Cybersecurity minor** at North Dakota State University, passionate about building tools that align with **FBI Cyber Division** workflows:  
+- 🧑‍💻 Python development for forensic automation  
+- 🧠 DFIR and malware simulation for training  
+- 🔐 Registry, memory, and process analysis in safe lab environments  
+- 🎯 Career Goal: Serve in **FBI Cyber** as a Special Agent or Computer Scientist  
+
+---
+
+## 🧰 Featured Projects
+
+🛡️ **[DFIR Hive Toolkit](https://github.com/EdwardHuber/dfir-hive-toolkit)**  
+Portable toolkit for **offline collection, decoding, and training workflows** using Windows registry hives.  
+*Tech:* Python, Impacket, Hashcat  
+*Skills:* Evidence handling, hive analysis, forensic automation, password auditing  
+
+📡 **[Network Packet Sniffer](https://github.com/EdwardHuber/packet-sniffer)**  
 Captures and logs live packets with filters.  
 *Tech:* Python, Scapy  
 *Skills:* Network packet capture, raw sockets, protocol analysis  
-🔗 [View Project](https://github.com/EdwardHuber/packet-sniffer)
 
-
-🎯 **2. Wi-Fi Password Grabber (Educational)**  
-Demonstrates retrieval of stored Wi-Fi credentials.  
+🎯 **[Wi-Fi Password Grabber (Educational)](https://github.com/EdwardHuber/wifi-password-grabber)**  
+Demonstrates retrieval of stored Wi-Fi credentials (Windows only).  
 *Tech:* Python, Windows CMD integration  
-*Skills:* Subprocess calls, credential extraction awareness, system security concepts  
-🔗 [View Project](https://github.com/EdwardHuber/WiFi-Password-Grabber)  
+*Skills:* Subprocess calls, credential awareness  
 
-🧠 **3. Keylogger with Heatmap Analysis**  
+🧠 **[Keylogger with Heatmap Analysis](https://github.com/EdwardHuber/keylogger-heatmap)**  
 Logs keystrokes and visualizes key frequency.  
 *Tech:* Python, Tkinter, Matplotlib  
-*Skills:* Input capture, data visualization, file handling, ethical awareness  
-🔗 [View Project](https://github.com/EdwardHuber/Keylogger-Heatmap)  
+*Skills:* Input capture, visualization, ethical keylogging awareness  
 
-📁 **4. File Integrity Monitor**  
+📁 **[File Integrity Monitor](https://github.com/EdwardHuber/file-integrity-monitor)**  
 Detects file changes and alerts on tampering.  
 *Tech:* Python, Watchdog  
 *Skills:* File hashing, change detection, monitoring concepts  
-🔗 [View Project](https://github.com/EdwardHuber/File-Integrity-Monitor)  
 
-🌐 **5. Port Scanner with GUI**  
+🌐 **[Port Scanner with GUI](https://github.com/EdwardHuber/port-scanner-gui)**  
 Scan IP ranges or targets via a GUI.  
 *Tech:* Python, Tkinter, Sockets  
-*Skills:* Network sockets, port scanning, GUI development  
-🔗 [View Project](https://github.com/EdwardHuber/Port-Scanner-GUI)  
+*Skills:* Network sockets, port scanning, GUI dev  
 
-📍 **6. IP Tracker**  
+📍 **[IP Tracker](https://github.com/EdwardHuber/ip-tracker)**  
 Tracks geolocation, ISP, timezone, and more from any IP.  
 *Tech:* Python, requests, ipinfo.io / ip-api.com  
 *Skills:* API integration, JSON, geolocation  
-🔗 [View Project](https://github.com/EdwardHuber/IP-Tracker)  
 
-🧰 **7. Offensive Python Toolkit**  
+🧰 **[Offensive Python Toolkit](https://github.com/EdwardHuber/offensive-python-toolkit)**  
 Modular CLI toolkit featuring port scanning, brute-force demos, and more.  
 *Tech:* Python, socket, subprocess, hashlib  
 *Skills:* Automation, CLI design, red-team awareness  
-🔗 [View Project](https://github.com/EdwardHuber/Offensive-Python-Toolkit)  
 
-🦠 **8. Fake Malware Sandbox Logger**  
-Simulates malware-like actions for sandbox detection tests.  
-*Tech:* Python, socket, winreg (Windows)  
-*Skills:* Malware behavior simulation, registry interaction, logging  
-🔗 [View Project](https://github.com/EdwardHuber/Fake-Malware-Sandbox-Logger)  
+🦠 **[Fake Malware Sandbox Logger (Safe)](https://github.com/EdwardHuber/fake-malware-sandbox-logger)**  
+Simulates benign malware-like actions for sandbox/EDR training.  
+*Tech:* Python  
+*Skills:* Malware behavior simulation, registry/logging awareness  
 
-🎭 **9. Phishing Template Generator**  
+🎭 **[Phishing Template Generator](https://github.com/EdwardHuber/phishing-template-generator)**  
 Generates static phishing templates for awareness training.  
 *Tech:* Python, HTML, CSS  
-*Skills:* HTML/CSS templating, security awareness design  
-🔗 [View Project](https://github.com/EdwardHuber/Phishing-Template-Generator)  
+*Skills:* HTML/CSS templating, awareness design  
 
-🔒 **10. Basic Ransomware Simulator (Safe)**  
-Simulates ransomware behavior by renaming files (no encryption).  
-*Tech:* Python, OS module  
-*Skills:* File renaming, directory traversal, safe malware simulation  
-🔗 [View Project](https://github.com/EdwardHuber/ransomware-simulator)  
-
-💾 **11. Macro Payload Generator (Safe)**  
-Generates harmless VBA payloads for red-team awareness training.  
+🔒 **[Ransomware Simulator (Safe)](https://github.com/EdwardHuber/ransomware-simulator-safe)**  
+Renames files with `.locked` extension (reversible).  
 *Tech:* Python  
-*Skills:* VBA basics, payload simulation, file creation  
-🔗 [View Project](https://github.com/EdwardHuber/macro-payload-generator-safe)  
+*Skills:* File renaming, simulation design  
 
-📁 **12. USB Drop Simulation Tool**  
-Detects USB insertions/removals and logs device details.  
-*Tech:* Python, pyudev (Linux), pywin32 (Windows)  
-*Skills:* Hardware event monitoring, cross-platform forensics  
-🔗 [View Project](https://github.com/EdwardHuber/usb-drop-simulation-tool)  
+💾 **[Macro Payload Generator (Safe)](https://github.com/EdwardHuber/macro-payload-generator-safe)**  
+Creates harmless VBA macros for awareness demos.  
+*Tech:* Python  
+*Skills:* Macro basics, training payloads  
 
-🧪 **13. YARA Rule Tester GUI**  
-Loads files and applies YARA rules via GUI.  
+📁 **[USB Drop Simulation Tool](https://github.com/EdwardHuber/usb-drop-simulation-tool)**  
+Logs USB insertion/removal events for training.  
+*Tech:* Python, pyudev, WMI  
+*Skills:* Device monitoring, forensics awareness  
+
+🧪 **[YARA Rule Tester GUI](https://github.com/EdwardHuber/yara-rule-tester-gui)**  
+GUI app for testing YARA rules against sample files.  
 *Tech:* Python, Tkinter, yara-python  
-*Skills:* GUI dev, malware detection, YARA rules  
-🔗 [View Project](https://github.com/EdwardHuber/yara-rule-tester-gui)  
+*Skills:* Malware signature detection, GUI design  
 
-🔍 **14. Process Anomaly Detector**  
-Detects suspicious process behaviors.  
+🔍 **[Process Anomaly Detector](https://github.com/EdwardHuber/process-anomaly-detector)**  
+Flags suspicious parent/child process relationships.  
 *Tech:* Python, psutil  
-*Skills:* Process monitoring, regex detection, behavioral analysis  
-🔗 [View Project](https://github.com/EdwardHuber/Process-Anomaly-Detector)  
+*Skills:* Process analysis, DFIR triage  
 
-📜 **15. System Info Stealer (Demo)**  
-Collects system and network info (ethical demo).  
+📜 **[System Info Stealer (Demo)](https://github.com/EdwardHuber/system-info-stealer)**  
+Collects system and network info (for demo/awareness only).  
 *Tech:* Python  
-*Skills:* OS/network info gathering, awareness training  
-🔗 [View Project](https://github.com/EdwardHuber/system-info-demo)  
+*Skills:* OS & network info gathering, awareness training  
 
-🛡️ **16. Security Audit (Simulated Company)**  
-Performed a security audit as part of the Google Cybersecurity Certificate.  
+🛡️ **[Security Audit (Simulated Company)](https://github.com/EdwardHuber/security-audit)**  
+Performed a mock audit of a simulated organization as part of the Google Cybersecurity Certificate.  
 *Skills:* Risk assessment, security controls, professional reporting  
-🔗 [View Project](https://github.com/EdwardHuber/security-audit-simulated-company)  
 
 ---
 
-## 🧪 Skills  
-
+## 🧪 Skills
+- **Forensics & DFIR:** Registry/hive analysis, process triage, memory forensics, chain-of-custody  
 - **Languages:** Python, Bash, HTML  
-- **Tools:** Hashcat, Impacket, Volatility3, Wireshark, Scapy, YARA, Burp Suite, Nmap  
-- **Concepts:** Digital forensics, malware analysis, intrusion detection, automation, OSINT, phishing simulation  
+- **Tools:** Wireshark, Hashcat, YARA, Impacket, Scapy  
+- **Concepts:** Malware simulation, phishing awareness, anomaly detection, forensic logging  
 
 ---
 
-## 🎓 Education (In Progress)  
-
-- **B.S. Information Technology** — North Dakota State University  
-- **Cybersecurity Minor** — North Dakota State University  
-- **Google Cybersecurity Certificate**  
+## 🎓 Education & Certifications
+- **B.S. Information Technology (Cybersecurity minor)** — North Dakota State University (In Progress)  
+- **Google Cybersecurity Certificate** (In Progress)  
 
 ---
 
-## 📫 Contact Me  
-
-- GitHub: [github.com/EdwardHuber](https://github.com/EdwardHuber)  
-- Email: edwardhuber1234@gmail.com  
+## 📫 Contact
+- GitHub: [EdwardHuber](https://github.com/EdwardHuber)  
+- Email: **edwardhuber1234@gmail.com**  
 - LinkedIn: [linkedin.com/in/EdwardHuber](https://linkedin.com/in/EdwardHuber)  
 
 ---
 
-⚠️ **Disclaimer:**  
-All tools are built for **educational and authorized forensic use only**. My focus is on simulating **law enforcement and FBI Cyber workflows** in a safe lab environment.  
+⚠️ **All projects are educational and for authorized use only.**  
+MIT License © 2025 Edward Huber
+
+
 
 
