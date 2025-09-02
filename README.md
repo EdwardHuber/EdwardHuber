@@ -1,180 +1,145 @@
-# 🛡️ Edward Huber — Cybersecurity Portfolio
 
-Welcome to my Cybersecurity Portfolio. This space showcases my hands-on projects, tools, and experiments focused on cybersecurity, ethical hacking, and digital forensics. Whether you're a recruiter, fellow tech enthusiast, or just curious — feel free to explore!
+# 🛡️ Edward Huber — Cybersecurity & Digital Forensics Portfolio  
 
----
-
-## 🔍 About Me
-
-I'm an Information Technology student with a focus in cybersecurity, passionate about network security, ethical hacking, and automation. My portfolio includes real-world style tools, ethical red team demos, and security-oriented Python projects.
-
-
-- 🧑‍💻 Strong Python skills with formal and self-guided learning  
-- 🧠 Always learning: HackTheBox, and real-world research  
-- 🔐 Focus: Reconnaissance, malware analysis, automation, and pentesting
-- 📋 Completed a security audit of a simulated company as part of the Google Cybersecurity Certificate
----
-
-## 🧰 Featured Projects
-
-### 📡 1. Network Packet Sniffer  
-**Description:** Captures and logs live packets with filters.  
-**Tech:** Python, Scapy  
-**Skills Learned:** Network packet capture, raw sockets, protocol analysis, Scapy usage  
-**Demo:** `python packet_sniffer.py`  
-[🔗 View Project](https://github.com/EdwardHuber/packet-sniffer)
+Welcome to my GitHub! 🎉  
+This is where I share the projects I’ve built while studying **cybersecurity and digital forensics**. My long-term goal is to serve in **FBI Cyber**, and I’m building a portfolio of projects that highlight skills in **evidence handling, forensics, malware analysis, and automation**.  
 
 ---
 
-### 🎯 2. Wi-Fi Password Grabber (Educational)  
-**Description:** Demonstrates retrieval of stored Wi-Fi credentials.  
-**Tech:** Python, Windows cmd integration  
-**Skills Learned:** Windows subprocess calls, credential extraction awareness, system security concepts  
-[🔗 View Project](https://github.com/EdwardHuber/wifi-password-grabber)
+## 🔍 About Me  
+
+- 🎓 IT major + Cybersecurity minor at North Dakota State University (both in progress)  
+- 🛡️ Focused on digital forensics, malware analysis, and network investigations  
+- 🧑‍💻 Strong Python background — I love building tools that make forensic work faster and more structured  
+- 🧠 Always learning through HackTheBox, coursework, and side projects  
+- 🚀 Big picture: use cybersecurity to **protect communities and uncover the truth in digital evidence**  
 
 ---
 
-### 🧠 3. Keylogger with Heatmap Analysis  
-**Description:** Logs keystrokes and visualizes key frequency.  
-**Tech:** Python, Tkinter, Matplotlib  
-**Skills Learned:** Keyboard input capture, data visualization, file handling, ethical keylogging  
-[🔗 View Project](https://github.com/EdwardHuber/keylogger-heatmap)
+## 🧰 Featured Projects  
+
+📡 **1. Network Packet Sniffer**  
+Captures and logs live packets with filters.  
+*Tech:* Python, Scapy  
+*Skills:* Network packet capture, raw sockets, protocol analysis  
+🔗 [View Project](https://github.com/EdwardHuber/Network-Packet-Sniffer)  
+
+🎯 **2. Wi-Fi Password Grabber (Educational)**  
+Demonstrates retrieval of stored Wi-Fi credentials.  
+*Tech:* Python, Windows CMD integration  
+*Skills:* Subprocess calls, credential extraction awareness, system security concepts  
+🔗 [View Project](https://github.com/EdwardHuber/WiFi-Password-Grabber)  
+
+🧠 **3. Keylogger with Heatmap Analysis**  
+Logs keystrokes and visualizes key frequency.  
+*Tech:* Python, Tkinter, Matplotlib  
+*Skills:* Input capture, data visualization, file handling, ethical awareness  
+🔗 [View Project](https://github.com/EdwardHuber/Keylogger-Heatmap)  
+
+📁 **4. File Integrity Monitor**  
+Detects file changes and alerts on tampering.  
+*Tech:* Python, Watchdog  
+*Skills:* File hashing, change detection, monitoring concepts  
+🔗 [View Project](https://github.com/EdwardHuber/File-Integrity-Monitor)  
+
+🌐 **5. Port Scanner with GUI**  
+Scan IP ranges or targets via a GUI.  
+*Tech:* Python, Tkinter, Sockets  
+*Skills:* Network sockets, port scanning, GUI development  
+🔗 [View Project](https://github.com/EdwardHuber/Port-Scanner-GUI)  
+
+📍 **6. IP Tracker**  
+Tracks geolocation, ISP, timezone, and more from any IP.  
+*Tech:* Python, requests, ipinfo.io / ip-api.com  
+*Skills:* API integration, JSON, geolocation  
+🔗 [View Project](https://github.com/EdwardHuber/IP-Tracker)  
+
+🧰 **7. Offensive Python Toolkit**  
+Modular CLI toolkit featuring port scanning, brute-force demos, and more.  
+*Tech:* Python, socket, subprocess, hashlib  
+*Skills:* Automation, CLI design, red-team awareness  
+🔗 [View Project](https://github.com/EdwardHuber/Offensive-Python-Toolkit)  
+
+🦠 **8. Fake Malware Sandbox Logger**  
+Simulates malware-like actions for sandbox detection tests.  
+*Tech:* Python, socket, winreg (Windows)  
+*Skills:* Malware behavior simulation, registry interaction, logging  
+🔗 [View Project](https://github.com/EdwardHuber/Fake-Malware-Sandbox-Logger)  
+
+🎭 **9. Phishing Template Generator**  
+Generates static phishing templates for awareness training.  
+*Tech:* Python, HTML, CSS  
+*Skills:* HTML/CSS templating, security awareness design  
+🔗 [View Project](https://github.com/EdwardHuber/Phishing-Template-Generator)  
+
+🔒 **10. Basic Ransomware Simulator (Safe)**  
+Simulates ransomware behavior by renaming files (no encryption).  
+*Tech:* Python, OS module  
+*Skills:* File renaming, directory traversal, safe malware simulation  
+🔗 [View Project](https://github.com/EdwardHuber/Basic-Ransomware-Simulator)  
+
+💾 **11. Macro Payload Generator (Safe)**  
+Generates harmless VBA payloads for red-team awareness training.  
+*Tech:* Python  
+*Skills:* VBA basics, payload simulation, file creation  
+🔗 [View Project](https://github.com/EdwardHuber/Macro-Payload-Generator)  
+
+📁 **12. USB Drop Simulation Tool**  
+Detects USB insertions/removals and logs device details.  
+*Tech:* Python, pyudev (Linux), pywin32 (Windows)  
+*Skills:* Hardware event monitoring, cross-platform forensics  
+🔗 [View Project](https://github.com/EdwardHuber/USB-Drop-Simulation)  
+
+🧪 **13. YARA Rule Tester GUI**  
+Loads files and applies YARA rules via GUI.  
+*Tech:* Python, Tkinter, yara-python  
+*Skills:* GUI dev, malware detection, YARA rules  
+🔗 [View Project](https://github.com/EdwardHuber/YARA-Rule-Tester)  
+
+🔍 **14. Process Anomaly Detector**  
+Detects suspicious process behaviors.  
+*Tech:* Python, psutil  
+*Skills:* Process monitoring, regex detection, behavioral analysis  
+🔗 [View Project](https://github.com/EdwardHuber/Process-Anomaly-Detector)  
+
+📜 **15. System Info Stealer (Demo)**  
+Collects system and network info (ethical demo).  
+*Tech:* Python  
+*Skills:* OS/network info gathering, awareness training  
+🔗 [View Project](https://github.com/EdwardHuber/System-Info-Stealer)  
+
+🛡️ **16. Security Audit (Simulated Company)**  
+Performed a security audit as part of the Google Cybersecurity Certificate.  
+*Skills:* Risk assessment, security controls, professional reporting  
+🔗 [View Project](https://github.com/EdwardHuber/Security-Audit)  
 
 ---
 
-### 📁 4. File Integrity Monitor  
-**Description:** Detects file changes and alerts on tampering.  
-**Tech:** Python, Watchdog  
-**Skills Learned:** File hashing, change detection, system monitoring concepts  
-[🔗 View Project](https://github.com/EdwardHuber/file-integrity-monitor)
-
----
-
-### 🌐 5. Port Scanner with GUI  
-**Description:** Scan IP ranges or targets via GUI.  
-**Tech:** Python, Tkinter, Sockets  
-**Skills Learned:** Network socket programming, port scanning, GUI development with Tkinter  
-[🔗 View Project](https://github.com/EdwardHuber/port-scanner-gui)
-
----
-
-### 📍 6. IP Tracker  
-**Description:** Tracks geolocation, ISP, timezone, and more from any IP using a public API.  
-**Tech:** Python, requests, ipinfo.io or ip-api.com  
-**Skills Learned:** API integration, working with JSON, IP geolocation, terminal-based input/output  
-[🔗 View Project](https://github.com/EdwardHuber/ip-tracker)
-
----
-
-### 🧰 7. Offensive Python Toolkit  
-**Description:** CLI-based modular toolkit featuring port scanning, hash cracking, brute-force simulation, subdomain enumeration, and more.  
-**Tech:** Python, socket, subprocess, hashlib  
-**Skills Learned:** Ethical red teaming, modular scripting, CLI design, automation, tool building  
-[🔗 View Project](https://github.com/EdwardHuber/offensive-python-toolkit)
-
----
-
-### 🦠 8. Fake Malware Sandbox Logger  
-**Description:** Simulates malware-like actions such as file writes, network connections, and registry changes to help test sandbox detections safely.  
-**Tech:** Python, socket, winreg (Windows)  
-**Skills Learned:** Simulating malware behavior, socket programming, Windows registry manipulation, logging  
-[🔗 View Project](https://github.com/EdwardHuber/fake-malware-sandbox-logger)
-
----
-
-### 🎭 9. Phishing Template Generator (HTML only)  
-**Description:** Generates customizable, static phishing page templates for security awareness training.  
-**Tech:** Python, HTML, CSS  
-**Skills Learned:** HTML/CSS templating, user input handling, security awareness design  
-[🔗 View Project](https://github.com/EdwardHuber/phishing-template-generator)
-
----
-
-### 🔒 10. Basic Ransomware Simulator (No Damage)  
-**Description:** Safely simulates ransomware behavior by renaming files with `.locked` extension without encrypting contents.  
-**Tech:** Python, OS module  
-**Skills Learned:** File renaming, directory traversal, safe ransomware simulation, logging  
-[🔗 View Project](https://github.com/EdwardHuber/ransomware-simulator)
-
----
-
-### 💾 11. Macro Payload Generator (Safe)  
-**Description:** Generates harmless VBA macro payloads for red team training and awareness.  
-**Tech:** Python  
-**Skills Learned:** VBA scripting basics, payload simulation, file creation  
-[🔗 View Project](https://github.com/EdwardHuber/macro-payload-generator)
-
----
-
-### 📁 12. USB Drop Simulation Tool  
-**Description:** Detects USB device insertions/removals and logs device details for forensic simulations.  
-**Tech:** Python, pyudev (Linux), pywin32 (Windows)  
-**Skills Learned:** USB event monitoring, cross-platform hardware interfacing, real-time logging  
-[🔗 View Project](https://github.com/EdwardHuber/usb-drop-simulator)
-
----
-
-### 🧪 13. YARA Rule Tester GUI  
-**Description:** Loads files and applies YARA rules via a GUI to detect malware signatures.  
-**Tech:** Python, Tkinter, yara-python  
-**Skills Learned:** GUI app development, YARA rules, malware detection basics  
-[🔗 View Project](https://github.com/EdwardHuber/yara-rule-tester-gui)
-
----
-
-### 🔍 14. Process Anomaly Detector  
-**Description:** Detects suspicious process behaviors and parent-child relationships to flag malware tactics.  
-**Tech:** Python, psutil  
-**Skills Learned:** Process enumeration, regex pattern matching, behavioral detection  
-[🔗 View Project](https://github.com/EdwardHuber/process-anomaly-detector)
-
----
-
-### 📜 15. System Info Stealer (Ethical Demo)  
-**Description:** Collects system and network info for ethical demo purposes.  
-**Tech:** Python  
-**Skills Learned:** OS and network info gathering, Python standard libraries  
-[🔗 View Project](https://github.com/EdwardHuber/system-info-demo)
-
----
-### 🛡️ 16. Security Audit (Simulated Company)  
-**Description:** Performed a structured security audit of a simulated organization as part of the Google Cybersecurity Certificate coursework.  
-**Tech:** Google Cybersecurity Certificate Framework  
-**Skills Learned:**  
-- Conducting a risk assessment  
-- Reviewing system and network security controls  
-- Identifying vulnerabilities and misconfigurations  
-- Documenting findings in a professional audit report  
-- Recommending security improvements aligned with best practices
-
-[📄 View Project Repository](https://github.com/EdwardHuber/security-audit-simulated-company)
-
----
-
-## 🧪 Skills
+## 🧪 Skills  
 
 - **Languages:** Python, Bash, HTML  
-- **Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Scapy, yara-python  
-- **Concepts:** Network security, OSINT, phishing simulation, malware analysis, process monitoring, USB forensics
+- **Tools:** Hashcat, Impacket, Volatility3, Wireshark, Scapy, YARA, Burp Suite, Nmap  
+- **Concepts:** Digital forensics, malware analysis, intrusion detection, automation, OSINT, phishing simulation  
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Education (In Progress)  
 
-- Google Cybersecurity Career Certificate (In Progress)  
-- Cybersecurity Certificate, Minnesota State Community & Technical College (In Progress)  
-- AS Degree in Information Technology, Minnesota State Community & Technical College (In Progress)
+- **B.S. Information Technology** — North Dakota State University  
+- **Cybersecurity Minor** — North Dakota State University  
+- **Google Cybersecurity Certificate**  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me  
 
 - GitHub: [github.com/EdwardHuber](https://github.com/EdwardHuber)  
 - Email: edwardhuber1234@gmail.com  
-- LinkedIn: [linkedin.com/in/EdwardHuber](https://www.linkedin.com/in/edward-huber-036722247)
+- LinkedIn: [linkedin.com/in/EdwardHuber](https://linkedin.com/in/EdwardHuber)  
 
 ---
 
-> ⚠️ All tools are built **for educational purposes only**. Always test ethically and legally.
+⚠️ **Disclaimer:**  
+All tools are built for **educational and authorized forensic use only**. My focus is on simulating **law enforcement and FBI Cyber workflows** in a safe lab environment.  
 
 
