@@ -75,7 +75,7 @@ Generates static phishing templates for awareness training.
 *Tech:* Python, HTML, CSS  
 *Skills:* HTML/CSS templating, awareness design  
 
-🔒 **[Ransomware Simulator (Safe)](https://github.com/EdwardHuber/ransomware-simulator-safe)**  
+🔒 **[Ransomware Simulator (Safe)](https://github.com/EdwardHuber/ransomware-simulator)**  
 Renames files with `.locked` extension (reversible).  
 *Tech:* Python  
 *Skills:* File renaming, simulation design  
