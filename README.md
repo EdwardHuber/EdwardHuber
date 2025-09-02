@@ -77,7 +77,7 @@ Generates static phishing templates for awareness training.
 Simulates ransomware behavior by renaming files (no encryption).  
 *Tech:* Python, OS module  
 *Skills:* File renaming, directory traversal, safe malware simulation  
-🔗 [View Project](https://github.com/EdwardHuber/Basic-Ransomware-Simulator)  
+🔗 [View Project](https://github.com/EdwardHuber/ransomware-simulator)  
 
 💾 **11. Macro Payload Generator (Safe)**  
 Generates harmless VBA payloads for red-team awareness training.  
@@ -107,12 +107,12 @@ Detects suspicious process behaviors.
 Collects system and network info (ethical demo).  
 *Tech:* Python  
 *Skills:* OS/network info gathering, awareness training  
-🔗 [View Project](https://github.com/EdwardHuber/System-Info-Stealer)  
+🔗 [View Project](https://github.com/EdwardHuber/system-info-demo)  
 
 🛡️ **16. Security Audit (Simulated Company)**  
 Performed a security audit as part of the Google Cybersecurity Certificate.  
 *Skills:* Risk assessment, security controls, professional reporting  
-🔗 [View Project](https://github.com/EdwardHuber/Security-Audit)  
+🔗 [View Project](https://github.com/EdwardHuber/security-audit-simulated-company)  
 
 ---
 
