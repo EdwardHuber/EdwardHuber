@@ -14,12 +14,19 @@ They are intentionally limited, safe to run in lab environments, and **must not*
 ---
 
 ## 🔍 About Me  
-I’m an **IT major with a Cybersecurity minor** at North Dakota State University, building tools for **forensic automation, malware simulation, and DFIR workflows**.  
+I’m an **Information Technology major with a Cybersecurity minor** at North Dakota State University, developing tools for **forensic automation, malware simulation, and DFIR workflows**.  
 
 - 🧑‍💻 Python for forensic automation  
 - 🧠 DFIR and malware simulation for training  
 - 🔐 Registry, memory, and process analysis in safe labs  
-- 🎯 Career Goal: Apply my skills in digital forensics and cyber defense across public or private sectors, with a **long-term aspiration to serve in FBI Cyber**  
+- 🎯 Career Goal: Apply my skills in digital forensics and cyber defense within federal service, with a **long-term goal to serve in FBI Cyber Operations**
+
+---
+
+## 🧠 Learning Approach  
+Some early projects were developed during **independent summer study** with **AI-assisted coding** used for learning acceleration and debugging.  
+All implementations were **independently reviewed, modified, and documented** by me to ensure full understanding of each system.  
+This approach accelerated my practical development in **Python, DFIR, and network security**, while maintaining strict **ethical and educational standards**.
 
 ---
 
@@ -74,17 +81,17 @@ I’m an **IT major with a Cybersecurity minor** at North Dakota State Universit
 
 ## 🎓 Education & Certifications  
 - **B.S. Information Technology (Cybersecurity minor)** — North Dakota State University *(In Progress)*  
-- **Google Cybersecurity Certificate** *(In Progress)*  
+- **Google Cybersecurity Certificate** 
 
 ---
 
 ## 📫 Contact  
 - GitHub: [EdwardHuber](https://github.com/EdwardHuber?tab=repositories)  
 - Email: **edwardhuber1234@gmail.com**  
-- LinkedIn: [linkedin.com/in/EdwardHuber](https://linkedin.com/in/EdwardHuber)  
 
 ---
 
 ⚠️ All projects are educational and for authorized use only.  
 MIT License © 2025 Edward Huber
+
 
